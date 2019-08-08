@@ -1,10 +1,6 @@
-# National-Pride
-Hi !
+Written in Python notebook
+I retrived some 'ynet' articles regarding a country as input from user.
+Using web scrapping to get the details for every article.
 
-Not sure about what will be the best way for you to run it, but this one works for me:
-. Getting the .ipynb and .txt files to your local
-. Downloading the relavent moudles for Anaconda (like 'google', 'beautiful soup' ...)
-. Running the notebook with Jupyter Notebook
-
-Cheers,
-Yotam
+Later i collected some "intelligence" from web about the country,
+like the flag image and how the people in the country sing their national anthem (anthem's lyrics)
